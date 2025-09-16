@@ -1,1 +1,1 @@
-# Python-while-loop-questions
+# Python list questions
